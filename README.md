@@ -1,7 +1,7 @@
 # Urban-water-scarcity
 
 Data availability.
-All the data created in this study are openly available and the supplementary data can be downloaded from OneDrive (https://1drv.ms/u/s!AoYihVrJvSy3jkJ44FcBd-j9RliY?e=Tbj5c3) or 师大云盘(https://pan.bnu.edu.cn/l/NHfFiK).
+All the data created in this study are openly available and the supplementary data can be downloaded from OneDrive (https://1drv.ms/u/s!AoYihVrJvSy3mmbdChBqEpJGeSnm?e=Uac9Op) or 师大云盘(https://pan.bnu.edu.cn/l/5odWlD).
 Other data are available from the corresponding author upon reasonable request.
 
 List of supplementary data
